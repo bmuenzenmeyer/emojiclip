@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+
+.container {
+  display: grid;
+  grid-template-rows: 100vh;
+  grid-template-columns: 100vw;
+  align-items: center;
+  justify-items: center;
+}
